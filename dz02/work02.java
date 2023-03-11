@@ -1,9 +1,9 @@
 package dz02;
 
-import java.io.FileNotFoundException;
-import java.io.FileWriter;
-import java.io.IOException;
-import java.io.PrintWriter;
+// import java.io.FileNotFoundException;
+// import java.io.FileWriter;
+// import java.io.IOException;
+// import java.io.PrintWriter;
 import java.util.Arrays;
 import java.util.logging.FileHandler;
 import java.util.logging.*;
