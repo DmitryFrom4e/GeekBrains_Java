@@ -1,0 +1,110 @@
+мар. 11, 2023 6:43:34 AM dz02.work02$Main writeToLogger
+INFO: [3, 90, 40, 50, 57, 10, 0, 100]
+мар. 11, 2023 6:44:14 AM dz02.work02$Main writeToLogger
+INFO: [3, 40, 90, 50, 57, 10, 0, 100]
+мар. 11, 2023 6:44:14 AM dz02.work02$Main writeToLogger
+INFO: [3, 40, 90, 50, 57, 10, 0, 100]
+мар. 11, 2023 6:44:18 AM dz02.work02$Main writeToLogger
+INFO: [3, 40, 50, 90, 57, 10, 0, 100]
+мар. 11, 2023 6:44:18 AM dz02.work02$Main writeToLogger
+INFO: [3, 40, 50, 90, 57, 10, 0, 100]
+мар. 11, 2023 6:44:18 AM dz02.work02$Main writeToLogger
+INFO: [3, 40, 50, 90, 57, 10, 0, 100]
+мар. 11, 2023 6:44:32 AM dz02.work02$Main writeToLogger
+INFO: [3, 40, 50, 57, 90, 10, 0, 100]
+мар. 11, 2023 6:44:32 AM dz02.work02$Main writeToLogger
+INFO: [3, 40, 50, 57, 90, 10, 0, 100]
+мар. 11, 2023 6:44:32 AM dz02.work02$Main writeToLogger
+INFO: [3, 40, 50, 57, 90, 10, 0, 100]
+мар. 11, 2023 6:44:32 AM dz02.work02$Main writeToLogger
+INFO: [3, 40, 50, 57, 90, 10, 0, 100]
+мар. 11, 2023 6:44:37 AM dz02.work02$Main writeToLogger
+INFO: [3, 40, 50, 57, 10, 90, 0, 100]
+мар. 11, 2023 6:44:37 AM dz02.work02$Main writeToLogger
+INFO: [3, 40, 50, 57, 10, 90, 0, 100]
+мар. 11, 2023 6:44:37 AM dz02.work02$Main writeToLogger
+INFO: [3, 40, 50, 57, 10, 90, 0, 100]
+мар. 11, 2023 6:44:37 AM dz02.work02$Main writeToLogger
+INFO: [3, 40, 50, 57, 10, 90, 0, 100]
+мар. 11, 2023 6:44:37 AM dz02.work02$Main writeToLogger
+INFO: [3, 40, 50, 57, 10, 90, 0, 100]
+мар. 11, 2023 6:44:41 AM dz02.work02$Main writeToLogger
+INFO: [3, 40, 50, 57, 10, 0, 90, 100]
+мар. 11, 2023 6:44:41 AM dz02.work02$Main writeToLogger
+INFO: [3, 40, 50, 57, 10, 0, 90, 100]
+мар. 11, 2023 6:44:41 AM dz02.work02$Main writeToLogger
+INFO: [3, 40, 50, 57, 10, 0, 90, 100]
+мар. 11, 2023 6:44:41 AM dz02.work02$Main writeToLogger
+INFO: [3, 40, 50, 57, 10, 0, 90, 100]
+мар. 11, 2023 6:44:41 AM dz02.work02$Main writeToLogger
+INFO: [3, 40, 50, 57, 10, 0, 90, 100]
+мар. 11, 2023 6:44:41 AM dz02.work02$Main writeToLogger
+INFO: [3, 40, 50, 57, 10, 0, 90, 100]
+мар. 11, 2023 6:44:56 AM dz02.work02$Main writeToLogger
+INFO: [3, 40, 50, 10, 57, 0, 90, 100]
+мар. 11, 2023 6:44:56 AM dz02.work02$Main writeToLogger
+INFO: [3, 40, 50, 10, 57, 0, 90, 100]
+мар. 11, 2023 6:44:56 AM dz02.work02$Main writeToLogger
+INFO: [3, 40, 50, 10, 57, 0, 90, 100]
+мар. 11, 2023 6:44:56 AM dz02.work02$Main writeToLogger
+INFO: [3, 40, 50, 10, 57, 0, 90, 100]
+мар. 11, 2023 6:44:56 AM dz02.work02$Main writeToLogger
+INFO: [3, 40, 50, 10, 57, 0, 90, 100]
+мар. 11, 2023 6:44:56 AM dz02.work02$Main writeToLogger
+INFO: [3, 40, 50, 10, 57, 0, 90, 100]
+мар. 11, 2023 6:44:56 AM dz02.work02$Main writeToLogger
+INFO: [3, 40, 50, 10, 57, 0, 90, 100]
+мар. 11, 2023 6:45:00 AM dz02.work02$Main writeToLogger
+INFO: [3, 40, 50, 10, 0, 57, 90, 100]
+мар. 11, 2023 6:45:00 AM dz02.work02$Main writeToLogger
+INFO: [3, 40, 50, 10, 0, 57, 90, 100]
+мар. 11, 2023 6:45:00 AM dz02.work02$Main writeToLogger
+INFO: [3, 40, 50, 10, 0, 57, 90, 100]
+мар. 11, 2023 6:45:00 AM dz02.work02$Main writeToLogger
+INFO: [3, 40, 50, 10, 0, 57, 90, 100]
+мар. 11, 2023 6:45:00 AM dz02.work02$Main writeToLogger
+INFO: [3, 40, 50, 10, 0, 57, 90, 100]
+мар. 11, 2023 6:45:00 AM dz02.work02$Main writeToLogger
+INFO: [3, 40, 50, 10, 0, 57, 90, 100]
+мар. 11, 2023 6:45:00 AM dz02.work02$Main writeToLogger
+INFO: [3, 40, 50, 10, 0, 57, 90, 100]
+мар. 11, 2023 6:45:00 AM dz02.work02$Main writeToLogger
+INFO: [3, 40, 50, 10, 0, 57, 90, 100]
+мар. 11, 2023 6:45:08 AM dz02.work02$Main writeToLogger
+INFO: [3, 40, 10, 50, 0, 57, 90, 100]
+мар. 11, 2023 6:45:08 AM dz02.work02$Main writeToLogger
+INFO: [3, 40, 10, 50, 0, 57, 90, 100]
+мар. 11, 2023 6:45:08 AM dz02.work02$Main writeToLogger
+INFO: [3, 40, 10, 50, 0, 57, 90, 100]
+мар. 11, 2023 6:45:08 AM dz02.work02$Main writeToLogger
+INFO: [3, 40, 10, 50, 0, 57, 90, 100]
+мар. 11, 2023 6:45:08 AM dz02.work02$Main writeToLogger
+INFO: [3, 40, 10, 50, 0, 57, 90, 100]
+мар. 11, 2023 6:45:08 AM dz02.work02$Main writeToLogger
+INFO: [3, 40, 10, 50, 0, 57, 90, 100]
+мар. 11, 2023 6:45:08 AM dz02.work02$Main writeToLogger
+INFO: [3, 40, 10, 50, 0, 57, 90, 100]
+мар. 11, 2023 6:45:08 AM dz02.work02$Main writeToLogger
+INFO: [3, 40, 10, 50, 0, 57, 90, 100]
+мар. 11, 2023 6:45:08 AM dz02.work02$Main writeToLogger
+INFO: [3, 40, 10, 50, 0, 57, 90, 100]
+мар. 11, 2023 6:45:11 AM dz02.work02$Main writeToLogger
+INFO: [3, 40, 10, 0, 50, 57, 90, 100]
+мар. 11, 2023 6:45:11 AM dz02.work02$Main writeToLogger
+INFO: [3, 40, 10, 0, 50, 57, 90, 100]
+мар. 11, 2023 6:45:11 AM dz02.work02$Main writeToLogger
+INFO: [3, 40, 10, 0, 50, 57, 90, 100]
+мар. 11, 2023 6:45:11 AM dz02.work02$Main writeToLogger
+INFO: [3, 40, 10, 0, 50, 57, 90, 100]
+мар. 11, 2023 6:45:11 AM dz02.work02$Main writeToLogger
+INFO: [3, 40, 10, 0, 50, 57, 90, 100]
+мар. 11, 2023 6:45:11 AM dz02.work02$Main writeToLogger
+INFO: [3, 40, 10, 0, 50, 57, 90, 100]
+мар. 11, 2023 6:45:11 AM dz02.work02$Main writeToLogger
+INFO: [3, 40, 10, 0, 50, 57, 90, 100]
+мар. 11, 2023 6:45:11 AM dz02.work02$Main writeToLogger
+INFO: [3, 40, 10, 0, 50, 57, 90, 100]
+мар. 11, 2023 6:45:11 AM dz02.work02$Main writeToLogger
+INFO: [3, 40, 10, 0, 50, 57, 90, 100]
+мар. 11, 2023 6:45:11 AM dz02.work02$Main writeToLogger
+INFO: [3, 40, 10, 0, 50, 57, 90, 100]
