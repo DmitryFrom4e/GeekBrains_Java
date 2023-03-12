@@ -1,5 +1,6 @@
 package dz02;
 
+import java.io.IOException;
 // import java.io.FileNotFoundException;
 // import java.io.FileWriter;
 // import java.io.IOException;
@@ -55,6 +56,8 @@ public class work02 {
                         buf = mas[i];
                         mas[i] = mas[i + 1];
                         mas[i + 1] = buf;
+                        // почему то одна и та же строчка перезаписывается раза 3-4 в файле
+                        // не пойму, почему
                         writeToLogger(mas, fh);
                     }
                 }
