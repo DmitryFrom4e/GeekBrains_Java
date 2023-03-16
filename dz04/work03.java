@@ -20,10 +20,11 @@ public class work03 {
 
     private static void initValues(Scanner scanner) {
 
-        if (!cancelling)
+        if (!cancelling) {
             firstNum = getNumber(scanner, "Введите первое число: ");
+            secondNum = getNumber(scanner, "Введите второе число: ");
+        }
         operation = getOperation(scanner, "Выберите операцию (+, -, *, /): ");
-        secondNum = getNumber(scanner, "Введите второе число: ");
         result = getCalculate(firstNum, secondNum, operation);
     }
 
