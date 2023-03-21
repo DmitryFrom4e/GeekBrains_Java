@@ -119,6 +119,7 @@ public class work03 {
                         writeToLogger(fh, "отменена последняя операция");
                         initValues(scanner);
                         writeLinkedList(lnkList);
+                        break;
                     }
                 case 3:
                     System.out.println("Программа завершена пользователем");
